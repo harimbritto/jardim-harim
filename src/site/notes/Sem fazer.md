@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["exampletag"],"permalink":"/Sem fazer/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["exampletag"],"permalink":"/sem-fazer/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
