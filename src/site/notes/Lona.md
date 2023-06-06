@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Lona/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["exampletag"],"permalink":"/Lona/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
