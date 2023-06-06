@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["exampletag"],"permalink":"/Lona/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["exampletag"],"permalink":"/lona/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
