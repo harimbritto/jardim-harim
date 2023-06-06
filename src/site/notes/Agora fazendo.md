@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["exampletag"],"permalink":"/Agora fazendo/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"tags":["exampletag"],"permalink":"/agora-fazendo/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
