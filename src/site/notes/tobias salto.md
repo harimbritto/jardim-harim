@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/tobias-salto/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"tags":["exampletag","gardenEntry"],"permalink":"/tobias-salto/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
