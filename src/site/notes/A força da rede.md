@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["exampletag","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/a-forca-da-rede/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"tags":["exampletag","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/a-forca-da-rede/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
