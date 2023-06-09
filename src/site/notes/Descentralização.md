@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"tags":["exampletag","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/descentralizacao/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-home":true,"tags":["exampletag","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"permalink":"/descentralizacao/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
