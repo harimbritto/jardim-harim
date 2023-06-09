@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"tags":["exampletag"],"permalink":"/sem-fazer/","dgPassFrontmatter":true,"noteIcon":""}
----
-
-
-Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem fazer Sem
