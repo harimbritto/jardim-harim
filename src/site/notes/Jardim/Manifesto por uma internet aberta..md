@@ -3,8 +3,9 @@
 ---
 
 
-Experiência pessoal
-A força da rede
-O perigo da concentração
-Descentralização
-Jardins etc
+[[Experiência pessoal\|Experiência pessoal]]
+[[A força da rede\|A força da rede]]
+[[O perigo da concentração\|O perigo da concentração]]
+[[Descentralização\|Descentralização]]
+[[Jardins\|Jardins]] 
+etc
